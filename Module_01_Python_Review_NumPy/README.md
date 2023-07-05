@@ -7,10 +7,13 @@
 * Matrix operations
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Numpy is a powerful library.
+* Makes working with matrices easy.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Matrix transposing was challenging but understandable after reading documentation.
+
 
 ## Additional resources used 
-<To be filled>
+* Numpy documentation
+* ChatGPT
