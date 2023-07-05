@@ -14,7 +14,6 @@
 ## Challenging, interesting, or exciting aspects of today's assignment
 * Not a fan of error handling but worked through it successfully.
 * I was in the Learning Zone of this module.
-* OOD is my strong suit.
 <To be filled>
 
 ## Additional resources used 
