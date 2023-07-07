@@ -7,11 +7,11 @@
 * Operations on Tabular data
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Pandas are very helpful to understand data.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Different methods to study.
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
 
