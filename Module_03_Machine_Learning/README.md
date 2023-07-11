@@ -9,10 +9,13 @@
 * Random Forests
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+- Random Forest and Decision Trees are machine learning algorithms used for classification and regression tasks.
+- Visualizing data can provide insights.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+- I had to rely and documentation to comprehend the topics of this module.
+- Further reading required.
 
 ## Additional resources used 
-<To be filled>
+- ChatGPT
+- Skilit Documentation
