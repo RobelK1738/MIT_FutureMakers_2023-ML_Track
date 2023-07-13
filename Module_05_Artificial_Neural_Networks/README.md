@@ -8,10 +8,12 @@
 * Computing accuracy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Xavier or Glorot initialization
+* Implementation of RELU function
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Understanding hyperparameters took me some time.
 
 ## Additional resources used 
-<To be filled>
+* https://pouannes.github.io/blog/initialization/
+* ChatGPT
