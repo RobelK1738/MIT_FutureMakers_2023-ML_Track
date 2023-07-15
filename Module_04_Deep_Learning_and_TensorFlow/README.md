@@ -8,7 +8,7 @@
 
 ## Main takeaways from doing today's assignment
 * To accurately assess the performance of a model, it is necessary to train and evaluate the model on a validation or test set.
-* Normalization or feature scaling
+* Normalization or feature scaling.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 * Attributes of Linear regression
