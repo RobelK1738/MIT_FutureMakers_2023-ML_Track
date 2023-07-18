@@ -9,10 +9,12 @@
 * Batch norm
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Normalization of pixels
+* Dropout and Batch normalizing layers
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Training classification model for the CIFAR 100 dataset
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
+* TensorFlow documentation
