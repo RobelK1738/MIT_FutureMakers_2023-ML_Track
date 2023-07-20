@@ -6,10 +6,12 @@
 * Mean Squared Logarithm Error
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Types of Loss functions
+
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Properties and differences of MSE, MAE and MSLE
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
+* TensorFlow Documentation
