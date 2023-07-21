@@ -7,10 +7,11 @@
 * Sparse Categorical Cross-Entropy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Types and properties of classification loss functions
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Relationships between CCE, Sparse CCE and BCE
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
+* TensorFlow Documentation
