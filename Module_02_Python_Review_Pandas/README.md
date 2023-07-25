@@ -10,8 +10,10 @@
 * Pandas are very helpful to understand data.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-* Different methods to study.
+* Differences between Series and DataFrame
+* Useful functions such as groupby and sort_values
 
 ## Additional resources used 
 * ChatGPT
+* Pandas Documentation
 
