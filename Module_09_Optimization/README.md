@@ -7,10 +7,11 @@
 * Sparse Categorical Cross-Entropy
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Keras implementation of AdaGrad optimizer
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* SGD Vs BGD optimization algorithms
 
 ## Additional resources used 
-<To be filled>
+* https://keras.io/api/optimizers/
+* ChatGPT
