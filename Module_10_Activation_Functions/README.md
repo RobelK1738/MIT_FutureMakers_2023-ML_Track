@@ -8,10 +8,11 @@
 * Advanced activation functions: Swish, GeLU, SeLU
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Activation functions and their properties
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Trajectories and graphs of activation functions
 
 ## Additional resources used 
-<To be filled>
+* https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+* ChatGPT
