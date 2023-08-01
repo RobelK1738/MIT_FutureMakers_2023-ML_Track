@@ -7,10 +7,10 @@
 * Underfitting
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* Different regularization methods
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Regularization and dropout benefits
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
