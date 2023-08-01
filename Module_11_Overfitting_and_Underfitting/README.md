@@ -7,10 +7,10 @@
 * Reducing network capacity
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+* How to reduce overfitting and underfitting
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+* Helper functions to clean data
 
 ## Additional resources used 
-<To be filled>
+* ChatGPT
